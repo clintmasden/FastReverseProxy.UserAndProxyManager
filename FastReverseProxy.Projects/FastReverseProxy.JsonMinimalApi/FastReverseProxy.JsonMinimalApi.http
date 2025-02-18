@@ -1,0 +1,6 @@
+@FastReverseProxy.JsonMinimalApi_HostAddress = http://localhost:5091
+
+GET {{FastReverseProxy.JsonMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
