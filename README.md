@@ -1,4 +1,4 @@
-﻿# FastReverseProxy.UserAndProxyManager Server Plugin API
+﻿# UserAndProxyManager Server Plugin API
 
 This project is a production‑ready minimal API built using .NET Minimal API, EF Core, and SQLite to implement an external FRP server plugin. It extends [FRP's server plugin interface](https://github.com/fatedier/frp/blob/dev/doc/server_plugin.md) so that FRP (`frps`) can delegate operations such as client login, proxy creation, and connection handling to an external service.
 
